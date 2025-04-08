@@ -243,13 +243,15 @@ export default function LandingPage() {
                     <Home className="h-6 w-6 text-[#1458b8]" />
                   </div>
 
-                  <h3 className="text-xl font-bold">Películas Residenciais</h3>
+                  <h3 className="text-xl font-bold">
+                    Películas Arquitetônicas
+                  </h3>
                 </div>
 
                 <div className="mt-4 space-y-4">
                   <p className="text-muted-foreground">
                     Proteja sua casa do calor excessivo, desbotamento de móveis
-                    e olhares indiscretos com nossas películas residenciais de
+                    e olhares indiscretos com nossas películas Arquitetônicas de
                     alta qualidade.
                   </p>
 
@@ -748,7 +750,7 @@ export default function LandingPage() {
                     onClick={(e) => scrollToSection(e, "servicos")}
                     className="hover:text-primary"
                   >
-                    Películas Residenciais
+                    Películas Arquitetônicas
                   </a>
                 </li>
 
